@@ -1,0 +1,21 @@
+body {
+  background: #eee;
+  font-family: sans-serif;
+  width: 400px;
+  margin: 16px auto;
+}
+
+.title {
+    color: white;
+    background-color: #3ca7cf;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+    border: 2px solid black;
+}
+
+.content {
+    background-color: #00baff;
+    padding: 25px;
+    border: 2px solid black;
+}
